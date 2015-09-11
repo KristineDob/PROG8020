@@ -1,2 +1,2 @@
 # PROG8020
-Just another repository
+Created for my Web Design class. 
